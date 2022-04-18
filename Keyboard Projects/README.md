@@ -8,11 +8,11 @@ After I purchased the keyboard parts, I taught myself how to solder as well as h
 
 Over the years that followed, I've built many mechanical keyboards, and here are three of my favorites.
 
-# Keebio Viterbi
+## Keebio Viterbi
 The Viterbi is a 70% Split Ortholinear keyboard, 
 this one is equipped with lubricated Gateron black keyswitches and MDA Big Bang keycaps.
 This has been my main keyboard for the past 3-4 years. 
 It's a joy to type on and is what ignited my passion for split keyboards.
 
-# Mysetrium
+## Mysetrium
 
