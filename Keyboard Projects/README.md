@@ -16,4 +16,9 @@ It's a joy to type on and is what ignited my passion for split keyboards.
 
 ## Mysterium
 This was definitely the most difficult keyboard build I have done, mostly because I sourced all of the parts myself. 
-Two of my friends and I found the PCB files for a tenkeyless (TKL) keyboard called 'Mysterium'
+Two of my friends and I found some open-source files for a tenkeyless (TKL) keyboard called 'Mysterium', 
+so we sent the PCB files to a PCB manufacturer and the case files to a CNC company. 
+While the PCBs were being printed and the cases were being milled, we ordered all of the smaller electrical components we needed, 
+such as diodes, microprocessors, resistors, capacitors, etc.
+After soldering all of the electrical components, I installed the Soft Panda Black key switches and the PBT Chalk key caps.
+After typing on split, ortholinear boards for so long, I decided to give this keyboard to my Mom, because she hated her cheap, old keyboard.
