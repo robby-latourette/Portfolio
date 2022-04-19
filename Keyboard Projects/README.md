@@ -14,5 +14,6 @@ this one is equipped with lubricated Gateron black keyswitches and MDA Big Bang 
 This has been my main keyboard for the past 3-4 years. 
 It's a joy to type on and is what ignited my passion for split keyboards.
 
-## Mysetrium
-
+## Mysterium
+This was definitely the most difficult keyboard build I have done, mostly because I sourced all of the parts myself. 
+Two of my friends and I found the PCB files for a tenkeyless (TKL) keyboard called 'Mysterium'
