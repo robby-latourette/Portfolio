@@ -25,3 +25,13 @@ While the PCBs were being printed and the cases were being milled, we ordered al
 such as diodes, microprocessors, resistors, capacitors, etc.
 After soldering all of the electrical components, I installed the Soft Panda Black key switches and the PBT Chalk key caps.
 After typing on split, ortholinear boards for so long, I decided to give this keyboard to my Mom, because she hated her cheap, old keyboard.
+
+## Keebio BFO-9000
+I love this keyboard, because it is very over-the-top. 
+Firstly, it's ugly as hell. 
+The keycaps are from a grab bag of random, unused keycaps I bought from a keycap manufacture, and created something called a 'Grabbag-Board', (aka Barf-Board, Puke-board).
+It truly is a face only a mother could love, and for that, I absolutely adore it.
+
+
+Most ortholinear boards are anywhere from 60%-75% the size of a normal, 108-key keyboard, but this one has the full 108-keys.
+It
