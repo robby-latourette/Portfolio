@@ -10,7 +10,10 @@ Over the years that followed, I've built many mechanical keyboards, and here are
 
 ## Keebio Viterbi
 The Viterbi is a 70% Split Ortholinear keyboard, 
-this one is equipped with lubricated Gateron black keyswitches and MDA Big Bang keycaps.
+this one is equipped with lubricated Gateron black keyswitches and MDA Big Bang keycaps. 
+I didn't get a case for it, instead opting for PCB plates instead, 
+because I felt like I didn't need it to look fancy since it rarely leaves my room at home. 
+I also wanted to save some money and cases are expensive to custom make.
 This has been my main keyboard for the past 3-4 years. 
 It's a joy to type on and is what ignited my passion for split keyboards.
 
