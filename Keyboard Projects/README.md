@@ -32,6 +32,12 @@ Firstly, it's ugly as hell.
 The keycaps are from a grab bag of random, unused keycaps I bought from a keycap manufacture, and created something called a 'Grabbag-Board', (aka Barf-Board, Puke-board).
 It truly is a face only a mother could love, and for that, I absolutely adore it.
 
+The thing I enjoy most is the absolutely massive size of the keyboard. 
+The name 'BFO' stands for 'Big F\*cking Ortholinear'.
+Most split ortholinear boards are anywhere from 60%-75% the size of a normal, 108-key keyboard, but this one has the full 108-keys.
 
-Most ortholinear boards are anywhere from 60%-75% the size of a normal, 108-key keyboard, but this one has the full 108-keys.
-It
+For the key switches, I am using Kailh Box Navy switches which were the heaviest and loudest switches I could find.
+They are so loud that many offices ban them for being too noisy.
+Why did I pick these switches? 
+I have a heavy key stroke, and I like super loud switches, simple as. 
+
