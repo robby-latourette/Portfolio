@@ -8,6 +8,7 @@ After I purchased the keyboard parts, I taught myself how to solder as well as h
 
 Over the years that followed, I've built many mechanical keyboards, and here are three of my favorites.
 
+![Keebio Viterbi Keyboard](https://user-images.githubusercontent.com/56559210/164785447-65404a44-33fb-4cfe-b682-88249f930bfe.jpg "Keebio Viterbi Keyboard")
 ## Keebio Viterbi
 The Viterbi is a 70% Split Ortholinear keyboard, 
 this one is equipped with lubricated Gateron black keyswitches and MDA Big Bang keycaps. 
