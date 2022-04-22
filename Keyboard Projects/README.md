@@ -6,7 +6,10 @@ That is until I discovered the keyboard sub-culture that is split, ergonomic key
 I instantly bought the supplies I needed to build my own keyboard.
 After I purchased the keyboard parts, I taught myself how to solder as well as how to work with microprocessors, the ATmega32U4 to be exact, and got building.
 
-Over the years that followed, I've built many mechanical keyboards, and here are three of my favorites.
+All of my keyboards are using QMK Firmware, I've include the json files if you would like to view the layouts at https://config.qmk.fm/#/. 
+I've also included the hex files that are on my current boards.
+
+Over the years, I've built many mechanical keyboards, and here are three of my favorites.
 
 ## Keebio Viterbi
 ![Keebio Viterbi Keyboard](https://user-images.githubusercontent.com/56559210/164785447-65404a44-33fb-4cfe-b682-88249f930bfe.jpg "Keebio Viterbi Keyboard")
