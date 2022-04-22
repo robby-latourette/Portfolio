@@ -19,8 +19,8 @@ I also wanted to save some money and cases are expensive to custom make.
 This has been my main keyboard for the past 3-4 years. 
 It's a joy to type on and is what ignited my passion for split keyboards.
 
-![Mysterium Keyboard](https://github.com/robby-latourette/Portfolio/blob/main/Keyboard%20Projects/Mysterium/PXL_20220422_193144777.MP.jpg "Mysterium Keyboard")
 ## Mysterium
+![Mysterium Keyboard](https://github.com/robby-latourette/Portfolio/blob/main/Keyboard%20Projects/Mysterium/PXL_20220422_193144777.MP.jpg "Mysterium Keyboard")
 This was definitely the most difficult keyboard build I have done, mostly because I sourced all of the parts myself. 
 Two of my friends and I found some open-source files for a tenkeyless (TKL) keyboard called 'Mysterium', 
 so we sent the PCB files to a PCB manufacturer and the case files to a CNC company. 
@@ -29,8 +29,8 @@ such as diodes, microprocessors, resistors, capacitors, etc.
 After soldering all of the electrical components, I installed the Soft Panda Black key switches and the PBT Chalk key caps.
 After typing on split, ortholinear boards for so long, I decided to give this keyboard to my Mom, because she hated her cheap, old keyboard.
 
-![Keebio BFO-9000 Keyboard](https://github.com/robby-latourette/Portfolio/blob/main/Keyboard%20Projects/BFO-9000/PXL_20220422_194022316.jpg "Keebio BFO-9000 Keyboard")
 ## Keebio BFO-9000
+![Keebio BFO-9000 Keyboard](https://github.com/robby-latourette/Portfolio/blob/main/Keyboard%20Projects/BFO-9000/PXL_20220422_194022316.jpg "Keebio BFO-9000 Keyboard")
 I love this keyboard, because it is very over-the-top. 
 Firstly, it's ugly as hell. 
 The keycaps are from a grab bag of random, unused keycaps I bought from a keycap manufacture, and created something called a 'Grabbag-Board', (aka Barf-Board, Puke-board).
