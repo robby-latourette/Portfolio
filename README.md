@@ -1,6 +1,6 @@
 
 # Hello! 👋
-I am Robert (Robby) La Tourette, Software Engineer and Programmer, and this is my portfolio.
+I am Robert (Robby) La Tourette, Software Engineer and Programmer, and this is my portfolio!
 
 # Who am I? 😊
 I am a soon to be graduate of Computer Science from Concordia University Irvine. (go Eagles!)
