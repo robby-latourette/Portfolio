@@ -1,4 +1,5 @@
 # Hand-Made Arcade Machine
+![Arcade Machine Off](Arcade Machine/Photo Gallery/off.jpg "Arcade Machine Off")
 
 ## Summary
 During my first year of college, I developed an obseesion with old video games, specifically arcade machines. 
