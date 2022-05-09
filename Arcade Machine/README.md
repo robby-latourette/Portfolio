@@ -21,4 +21,4 @@ I was also determined to build it myself, so I found some templates for a table 
 For the exterior, I chose Sugar Pine and Sapele, and for the parts I was painting, I just used MDF. 
 Building the cabinet itself took about 85% of the total build time. 
 
-For the internals, as previously mentioned, a Raspberry Pi 3b is the brain behind the machine. Along with that, I have 2 sets of a joystick + 8 buttons for the controls allowing 2 player functionality for games that support it. The screen is a computer monitor, and the speakers I took out of an old pair of a computer speakers that I then connected to an audio amplifier.
+For the internals, a Raspberry Pi 3b running RetroPi OS is the brain behind the machine. Along with that, I have 2 sets of a joystick + 8 buttons for the controls allowing 2 player functionality for games that support it. The screen is a computer monitor, and the speakers I took out of an old pair of a computer speakers that I then connected to an audio amplifier.
