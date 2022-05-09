@@ -1,9 +1,9 @@
 # Parking Lot Detection Using openCV 🚗
 
-## Summary
+## Summary ✍️
 What this project seeks to do is provide a cost-effective smart parking system that uses a camera and computer vision to determine whether or not any given parking space in a parking lot is available.
 
-## How it Works
+## How it Works 🛠️
 First, the program takes a picture and then the user maps out all of the parking spaces within said picture. 
 Parking spots are mapped out by clicking on the four corners of the parking spot. 
 After 4 clicks, a rectangle is drawn.
