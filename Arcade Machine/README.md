@@ -15,4 +15,8 @@ While researching however, I also discovered something else, a sub-community of 
 This solved all of my problems with purchasing an arcade machine, since I could control the form factor of the machine, control what games I run on the emulator, and it would only cost around $150 dollars since it is powered by a raspberry pi.
 
 ## Building the Machine
-
+My biggest challenge in the beginning was how do I make the cabinet itself? 
+I could buy a kit online, but that would add a lot to the total price tag. 
+I was also determined to build it myself, so I found some templates for a table top machine online, and went out a bought the materials I needed.
+For the exterior, I chose Sugar Pine and Sapele, and for the parts I was painting, I just used MDF. 
+Building the cabinet itself took about 85% of the total build time. 
