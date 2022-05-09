@@ -1,5 +1,5 @@
 # Hand-Made Arcade Machine
-![Arcade Machine Off] (/Portfolio/Arcade Machine/Photo Gallery/off.jpg?raw=true "Arcade Machine Off")
+![Arcade Machine Off] (https://github.com/robby-latourette/Portfolio/blob/main/Arcade%20Machine/Photo%20Gallery/off.jpg?raw=true "Arcade Machine Off")
 
 ## Summary
 During my first year of college, I developed an obseesion with old video games, specifically arcade machines. 
