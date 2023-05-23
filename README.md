@@ -16,9 +16,9 @@ I'm currently self-employed as a private drum set/percussion instructor as well 
 Previously, I've worked at Mission Viejo Christian School as a Supervisor, Aide, Soccer/Golf Coach, and Drum instructor.
 
 # Coding Languages 🖥️
-My primary languages are C# and Python.
+My primary languages are C#, PYTHON, and JAVA.
 
-In addition, I am quite familiar with HTML, CSS, C++.
+In addition, I am quite familiar with HTML, CSS, JAVASCRIPT, GO, NODEJS, and R.
 
-I have also used SQL, MIPS Assembly, Java, JavaScript, though my expierence is more limited.
+I have also used SQL, MIPS Assembly, and ASM 6502 though my expierence is more limited.
 
